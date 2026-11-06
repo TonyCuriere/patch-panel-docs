@@ -1,0 +1,15 @@
+# Strumenti locali dell'editor / agenti (non fanno parte del tool)
+.agents/
+.claude/
+skills-lock.json
+
+# Versioni precedenti tenute in locale
+*_precedente.html
+
+# Versione personale completa (con modalità Aula), non pubblicata
+documentazione_patch_panel.html
+
+# File di sistema
+Thumbs.db
+desktop.ini
+.DS_Store
