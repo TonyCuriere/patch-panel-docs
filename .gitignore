@@ -9,6 +9,9 @@ skills-lock.json
 # Versione personale completa (con modalità Aula), non pubblicata
 documentazione_patch_panel.html
 
+# Immagini per i social (post e storia), non servono sul sito
+promo/
+
 # File di sistema
 Thumbs.db
 desktop.ini

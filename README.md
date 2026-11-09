@@ -1,3 +1,5 @@
+[![Patch panel – Ogni porta, al suo posto. Documenta i patch panel del rack e stampa il foglio A4 da attaccare all'armadio.](assets/cover@2x.png)](https://tonycuriere.github.io/patch-panel-docs/)
+
 # Patch panel – Documentazione rack
 
 Tool web per documentare i **patch panel** di un armadio rack e stampare un foglio **A4 orizzontale** da attaccare al rack.
